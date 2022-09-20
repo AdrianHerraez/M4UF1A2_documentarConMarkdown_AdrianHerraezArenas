@@ -19,9 +19,9 @@
 
    |Aplicaciones|Visto|
    |-----|-----|
-   |Google Docs|:white_check_mark:|
-   |Google Slide|:white_check_mark:|
-   |Google Sheet|:white_check_mark:|
+   |Google Docs|:heavy_check_mark:|
+   |Google Slide|:heavy_check_mark:|
+   |Google Sheet|:heavy_check_mark:|
    |Google Claendar|:calendar:|
    |Google Meet|:computer:|
    |  ... | ...  |
