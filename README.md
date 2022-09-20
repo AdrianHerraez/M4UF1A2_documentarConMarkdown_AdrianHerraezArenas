@@ -1,11 +1,11 @@
 # Evaluación inicial
 1. ¿Qué es una página web?
 
-   Respuesta.
+   Conjunto de información que se encuentra en una dirección determinada de internet.
 
 2. ¿Qué es un sitio web?
 
-   Respuesta.
+   Es un conjunto de páginas estáticas que entregan información.
 
 3. ¿Qué es una aplicación web?
 
