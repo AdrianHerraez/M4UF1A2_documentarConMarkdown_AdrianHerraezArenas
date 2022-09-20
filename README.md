@@ -13,14 +13,15 @@ Es una aplicación (en local o en linea) que permite editar un texto, una hoja d
 presentación
 
 5. [Herramientas de Google:](https://www.google.com/intl/es-419/chrome/browser-tools/)
+
  |Aplicaciones|Visto|
-   |-----|-----|
-   |Google Docs|:white_check_mark:|
-   |Google Slide|:white_check_mark:|
-   |Google Sheet|:white_check_mark:|
-   |Google Claendar|:calendar:|
-   |Google Meet|:computer:|
-   |  ... | ...  |
+ |-----|-----|
+ |Google Docs|:white_check_mark:|
+ |Google Slide|:white_check_mark:|
+ |Google Sheet|:white_check_mark:|
+ |Google Claendar|:calendar:|
+ |Google Meet|:computer:|
+ |  ... | ...  |
 
 6. ¿Qué es HTML ?
 Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
